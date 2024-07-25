@@ -8,11 +8,11 @@ Setup: \
 I mainly use Langchain, Pinecone Database and GroqAPI for the main functionality of this project. The Streamlit library is used for the demo on website.
 In this project, I only use two PDF files for the demo, ISLR textbook and Financial Mathematics textbook. 
 
-Functionality: \
+Functionality: 
 - This application can act as both conversational bot and RAG bot, able to accurately query the content related to the user's query..
 - This application can recall past conversation through the chat history.
 
-Limitaions: \
+Limitaions: 
 - Due to being a free LLM version, the context lenght and the token number of this application is quite limited.
 
 Resource: \
