@@ -16,7 +16,7 @@ Limitaions:
 - Due to being a free LLM version, the context lenght and the token number of this application is quite limited.
 
 Resource: \
-I would like to shout out to Sharath Raju. I have enrolled in his Langchain course on Udemy and that course has provided me with great source codes and gave me an idea of how to get started so this project is possible!
+I would like to shout out to Sharath Raju. I have enrolled in his Langchain course on Udemy and that course has provided me with great source codes and gave me an idea of how to get started so this project is possible! \
 Other that Sharath Raju's course, I use the following site for tutorial and code template.
 
 Conversational Rag: https://python.langchain.com/v0.2/docs/tutorials/qa_chat_history/
