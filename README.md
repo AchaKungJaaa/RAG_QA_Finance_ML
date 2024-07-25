@@ -1,6 +1,6 @@
 Hi! Welcome to my first presonal project: QA-RAG on Textbooks.
 
-Motivation:
+Motivation: \n
 My interest span to many fields of knowledge, Finance, Economics, Statistics, Machine Learning and Deep Learning, Linear Control System, Advanced mathematics (Complex Analysis, Optimization techniques, Laplace transform ...) etc.
 Due to my interest..., My collection of textbooks becomes increasingly large and I can't keep up with them! So, I create this QA-Rag system for myself to get a quick answer to some of my questions without haveing to skim through all of them!
 
